@@ -29,7 +29,9 @@ public class Adactin extends BaseClass {
 		sendkey(locatorbyid2, pass);
 		WebElement locatorbyid3 = locatorbyid("login");
 		btnclick(locatorbyid3);
+		btnclick(locatorbyid3);
 		}
+	
 }
 	
 //	@Parameters({})
